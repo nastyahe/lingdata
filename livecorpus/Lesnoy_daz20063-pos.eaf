@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="" DATE="2024-10-10T06:58:06+03:00"
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2024-10-10T08:12:31+03:00"
     FORMAT="3.0" VERSION="3.0"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
@@ -1694,8 +1694,8 @@
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a256" ANNOTATION_REF="a89" CVE_REF="cveid_20f78059-d2e8-4f05-b5e1-5ecdb74f5fb8">
-                <ANNOTATION_VALUE>PRON</ANNOTATION_VALUE>
+            <REF_ANNOTATION ANNOTATION_ID="a256" ANNOTATION_REF="a89" CVE_REF="cveid_c102500d-dff7-451d-b663-a514b194a5c4">
+                <ANNOTATION_VALUE>ADJ</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -2413,7 +2413,7 @@
             <CVE_VALUE DESCRIPTION="punctuation" LANG_REF="und">PUNCT</CVE_VALUE>
         </CV_ENTRY_ML>
         <CV_ENTRY_ML CVE_ID="cveid_1ba113be-9444-4ee3-9179-09249d3767b1">
-            <CVE_VALUE LANG_REF="und">PARENTH</CVE_VALUE>
+            <CVE_VALUE DESCRIPTION="parenthesis" LANG_REF="und">PARENTH</CVE_VALUE>
         </CV_ENTRY_ML>
     </CONTROLLED_VOCABULARY>
     <CONTROLLED_VOCABULARY CV_ID="Gesture phases">
