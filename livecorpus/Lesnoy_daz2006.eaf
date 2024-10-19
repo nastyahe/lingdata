@@ -2,6 +2,10 @@
 <ANNOTATION_DOCUMENT AUTHOR="" DATE="2024-10-17T00:07:50+03:00"
     FORMAT="3.0" VERSION="3.0"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR
+            MEDIA_URL="file:///C:/Users/1/Downloads/Lesnoy_daz20063.mp4"
+            MIME_TYPE="video/mp4" RELATIVE_MEDIA_URL="./Lesnoy_daz20063.mp4"/>
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:f626a543-2fb9-4d91-86d7-a5f5d1b2868b</PROPERTY>
         <PROPERTY NAME="lastUsedAnnotationId">385</PROPERTY>
     </HEADER>
